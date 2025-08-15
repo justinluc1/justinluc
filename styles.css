@@ -7,10 +7,6 @@ h1{
   text-align: center;
 }
 
-.img-with-text img {
+.img-with-text {
     margin-left: 10vh;
-}
-
-.img-with-text{
-   text-align: center;
 }
