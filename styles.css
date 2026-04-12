@@ -1,3 +1,4 @@
+
 /* Reset basic styling */
 * {
   box-sizing: border-box;
@@ -6,7 +7,7 @@
 }
 
 body {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.6;
   color: #333;
   background-color: #f4f7f6;
@@ -80,4 +81,8 @@ footer a {
     flex-direction: column;
     text-align: center;
   }
+}
+
+.socials {
+  margin-top: 1rem;
 }
